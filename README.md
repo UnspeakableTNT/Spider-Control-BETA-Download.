@@ -66,5 +66,6 @@ Add new levels and story content.
 Contact
 Have any questions or additional feedback? Feel free to reach out:
 
-Email: [email@example.com]
-Or open an issue.
+Website: https://mut-studios.b12sites.com/index#contact 
+
+
